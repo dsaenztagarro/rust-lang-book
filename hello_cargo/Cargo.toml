@@ -1,0 +1,10 @@
+[package]
+name = "hello_cargo"
+version = "0.1.0"
+authors = ["David Sáenz <dsaenz@bebanjo.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+# In Rust, packages of code are referred to as crates
+[dependencies]
